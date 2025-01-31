@@ -1,4 +1,5 @@
-CRIANDO UM BANCO DE DADOS E TABELAS NO SGDB SQLite
+CRIANDO UM BANCO DE DADOS E TABELAS NO SGDB SQLite com codigo 
+SQL
 
 - CRIANDO UM Banco de Dados no DB Browser 
 - Clicar em New Database Selecionar uma Pasta e criar o DB 
